@@ -9,10 +9,10 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '45e1a078-fe23-4d0b-9ae6-a2e4d97246c8'
+  azureSubscription: '90de0c98-2d25-4094-a834-32b29fdf8003'
   
   # Web app name
-  webAppName: 'my-java-app'
+  webAppName: 'salagars-app-name2'
 
   # Environment name
   environmentName: 'my-java-app'
